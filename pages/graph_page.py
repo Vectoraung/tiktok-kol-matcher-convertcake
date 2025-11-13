@@ -21,12 +21,10 @@ config = {"configurable": {"thread_id": "crawl-test"}}
 async def main(website_url):
     inputs = {
         "website_url": website_url,
-        "client_page_scrape_run_id": "dAAre2mFttKFI4NXe",
-        "scrapped_posts_dataset_id": "acCIzRWzO3p8wuQ90",
-        "analyzed_data_use_cache": True,
-        "product_category_use_cache": True,
-        "search_queries_use_cache": True,
-        "influencers_scores_use_cache": True
+        "analyzed_data_use_cache": False,
+        "product_category_use_cache": False,
+        "search_queries_use_cache": False,
+        "influencers_scores_use_cache": False
     }
 
     # Set stream_mode="custom" to receive the custom data in the stream
