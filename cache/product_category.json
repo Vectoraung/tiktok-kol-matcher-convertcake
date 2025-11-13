@@ -1,0 +1,29 @@
+{
+    "product_name": "PAÑPURI",
+    "main_category": "Beauty & Personal Care",
+    "subcategory_list": [
+        "Luxury Skincare",
+        "Fine Fragrances",
+        "Wellness Accessories"
+    ],
+    "description": "PAÑPURI is a luxury wellness brand offering a comprehensive range of natural and organic self-care products, including skincare, fragrances, and bath accessories. It focuses on providing a holistic, indulgent experience with sophisticated aesthetics for discerning consumers seeking premium, ethically conscious beauty solutions.",
+    "unique_selling_points": "Emphasizes natural and organic ingredients, offers a holistic self-care experience, features sophisticated artistic collaborations, provides an extensive product range, and promotes an 'Art of Gifting' concept for thoughtful, high-end presents.",
+    "target_audience": {
+        "gender": "all",
+        "age_range": "25-55",
+        "location": "not specified",
+        "interest": [
+            "mindful living",
+            "luxury beauty",
+            "natural products",
+            "art and aesthetics",
+            "holistic wellness"
+        ]
+    },
+    "brand_personality": [
+        "Serene",
+        "Sophisticated",
+        "Artistic",
+        "Luxurious"
+    ]
+}

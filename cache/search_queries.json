@@ -1,0 +1,61 @@
+{
+    "search_queries": [
+        {
+            "category": "Luxury Skincare",
+            "product_placement_in_content": {
+                "search_query": "สกินแคร์รูทีน #รีวิวสกินแคร์",
+                "translation_to_eng": "Find videos where skincare is part of a daily routine."
+            },
+            "unboxing": {
+                "search_query": "แกะกล่องสกินแคร์หรู #เปิดกรุสกินแคร์",
+                "translation_to_eng": "Find videos showing the unboxing of luxury skincare products."
+            },
+            "reviews": {
+                "search_query": "รีวิวสกินแคร์แพง #สกินแคร์ใช้ดีบอกต่อ",
+                "translation_to_eng": "Find videos with reviews and recommendations for luxury skincare."
+            },
+            "lifestyle": {
+                "search_query": "บำรุงผิวหน้า #ดูแลตัวเอง",
+                "translation_to_eng": "Find videos where skincare is integrated into a self-care lifestyle."
+            }
+        },
+        {
+            "category": "Fine Fragrances",
+            "product_placement_in_content": {
+                "search_query": "น้ำหอมที่ใช้ทุกวัน #กลิ่นหอมติดทน",
+                "translation_to_eng": "Find videos where perfume is used naturally in daily life."
+            },
+            "unboxing": {
+                "search_query": "แกะกล่องน้ำหอม #รีวิวน้ำหอมใหม่",
+                "translation_to_eng": "Find videos showing the unboxing of new fragrances."
+            },
+            "reviews": {
+                "search_query": "รีวิวน้ำหอมผู้หญิง #น้ำหอมลูกคุณ",
+                "translation_to_eng": "Find videos with reviews and recommendations for fine fragrances."
+            },
+            "lifestyle": {
+                "search_query": "น้ำหอมสำหรับออกเดท #สร้างบรรยากาศ",
+                "translation_to_eng": "Find videos where perfume is part of a lifestyle or occasion."
+            }
+        },
+        {
+            "category": "Wellness Accessories",
+            "product_placement_in_content": {
+                "search_query": "อุปกรณ์ออกกำลังกาย #ดูแลสุขภาพ",
+                "translation_to_eng": "Find videos where wellness accessories are used naturally."
+            },
+            "unboxing": {
+                "search_query": "แกะกล่องอุปกรณ์สุขภาพ #ของมันต้องมี",
+                "translation_to_eng": "Find videos showing the unboxing of wellness accessories."
+            },
+            "reviews": {
+                "search_query": "รีวิวอุปกรณ์โยคะ #ไอเทมสุขภาพ",
+                "translation_to_eng": "Find videos with reviews and recommendations for wellness accessories."
+            },
+            "lifestyle": {
+                "search_query": "ชีวิตสุขภาพดี #สายสุขภาพ",
+                "translation_to_eng": "Find videos where wellness accessories are integrated into a healthy lifestyle."
+            }
+        }
+    ]
+}
